@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad zuhair zuhdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zuhair zuhdi" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_zuhair_zuhdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_zuhair_zuhdi" height="30" width="40" /></a>
-<a href="https://discord.gg/frostfire.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frostfire.id" height="30" width="40" /></a>
+<a href="https://discord.com/users/486470554405175300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frostfire.id" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
