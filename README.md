@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently School on SMK Telkom Malang<br>🌱 I’m currently learning Nextjs and Back End stuff<br>👨‍💻 All of my projects are available at https://github.com/frostfire1<br>📫 How to reach me joe@frostfire.id<br>💬 Ask me about Java<br>⚡ Fun fact I hate Bahasa Indonesia Subject
+📚 I’m currently School on SMK Telkom Malang<br>🌱 I’m currently learning Nextjs and Back End stuff<br>👨‍💻 All of my projects are available at https://github.com/frostfire1<br>📫 How to reach me joe@frostfire.id<br>💬 I want to become a hardware, backend engineer and study cyber security
 
 
 ## 🌐 Socials:
